@@ -1,7 +1,7 @@
 ## Hello World!! 👋 I am Atharva 
 
 # 💫 About Me:
-I'm currently learning spring framework and Devops culture.
+I'm currently learning Spring framework and Devops culture.
 
 
 # 💻 Tech Stack:
