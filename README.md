@@ -32,7 +32,9 @@ I'm currently learning Spring framework and Devops culture.
 -->
 
 ---
-
+<!--
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=athrocks" alt = "atharva-pardeshi" /> </p>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/athrocks/athrocks/blob/output/github-snake-dark.svg" />
